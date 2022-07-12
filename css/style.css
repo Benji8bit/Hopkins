@@ -33,7 +33,7 @@ p.content {
     position: absolute;
     border: 1px solid black;
     border-collapse: collapse;
-    width: 160px;
+    width: 180px;
     height: 40px;
     margin: auto;
     padding: 0.5em;
@@ -45,6 +45,7 @@ p.content {
     text-align: center;
     text-transform: uppercase;
     font-weight: bold;
+    font-size: 110%;
 }
 
 .cycling {
@@ -58,6 +59,9 @@ p.content {
 .efficiency {
     background-color: silver;
 }
+
+/********** My grid is designed for a different number of blocks (from 1 to 12),
+            not necessarily three. *********/
 
 /********** Desktop devices **********/
 @media (min-width: 992px) {
