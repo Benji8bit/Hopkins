@@ -11,7 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e70ad18-f5f4-4245-b881-35075cfb1226" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mod3_solution/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style_mod3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mod3_solution/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mod3_solution/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +23,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -56,7 +58,7 @@
       <workItem from="1657370718294" duration="10000" />
       <workItem from="1657448775802" duration="1446000" />
       <workItem from="1657453923154" duration="17118000" />
-      <workItem from="1658138564341" duration="451000" />
+      <workItem from="1658138564341" duration="681000" />
     </task>
     <servers />
   </component>
