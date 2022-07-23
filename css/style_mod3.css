@@ -1,0 +1,60 @@
+body {
+    font-size: 16px;
+    color: darkorange;
+    background-color: #c9e2b3;
+}
+
+#header-nav {
+    background-color: #9acfea;
+    border: 0px;
+    border-radius: 0px;
+}
+
+.navbar-brand {
+    padding-top: 20px;
+}
+
+.navbar-brand h1 { /* Restaurant name */
+    font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+    color: #3c3c3c;
+    font-size: 2em;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #ffff00;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: .75;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+    text-decoration: none;
+}
+
+#collapsable-nav {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+    color: #3c3c3c;
+    text-shadow: 1px 1px 1px #ffff00;
+    text-align: center;
+}
+
+#main-content {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+    color: #3c3c3c;
+}
+
+#main-content h1, h2 {
+    color: #3c3c3c;
+    text-shadow: 1px 1px 1px #985f0d;
+}
+
+#main-content p {
+    background-color: cornsilk;
+    color: #985f0d;
+    text-align: justify;
+    margin: 1%;
+    padding: 1%;
+}

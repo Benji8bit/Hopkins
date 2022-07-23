@@ -11,8 +11,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e70ad18-f5f4-4245-b881-35075cfb1226" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/style_mod3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Fruits.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/applefruit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cartoonapple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fruits-long.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/greenbutton.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jumbotron_1200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jumbotron_768.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jumbotron_992.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/lemon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/menu-tile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/restaurant-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/restaurant-logo_large.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/restaurant-logo_medium.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/restaurant-logo_small.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/specials-tile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/star-k-logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style_mod3.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style_mod3.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mod3_solution/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mod3_solution/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,12 +48,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2BhucYBQ1W4sJApTZp0YfNFFc9j" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -58,7 +77,9 @@
       <workItem from="1657370718294" duration="10000" />
       <workItem from="1657448775802" duration="1446000" />
       <workItem from="1657453923154" duration="17118000" />
-      <workItem from="1658138564341" duration="681000" />
+      <workItem from="1658138564341" duration="3433000" />
+      <workItem from="1658203831467" duration="756000" />
+      <workItem from="1658428590288" duration="19540000" />
     </task>
     <servers />
   </component>
@@ -76,6 +97,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="491" y="99" key="#Inspections" timestamp="1657657503116">
