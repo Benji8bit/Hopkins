@@ -1,11 +1,17 @@
 body {
     font-size: 16px;
     color: darkorange;
-    background-color: #c9e2b3;
+    background: -webkit-linear-gradient(#c9e2b3, aliceblue);
+    background: -moz-linear-gradient(#c9e2b3, aliceblue);
+    background: -o-linear-gradient(#c9e2b3, aliceblue);
+    background: linear-gradient(#c9e2b3, aliceblue);
 }
 
 #header-nav {
-    background-color: #9acfea;
+    background: -webkit-linear-gradient(aliceblue, #9acfea);
+    background: -moz-linear-gradient(aliceblue, #9acfea);
+    background: -o-linear-gradient(aliceblue, #9acfea);
+    background: linear-gradient(aliceblue, #9acfea);
     border: 0px;
     border-radius: 0px;
 }
@@ -20,7 +26,7 @@ body {
     font-size: 2em;
     text-transform: uppercase;
     font-weight: bold;
-    text-shadow: 1px 1px 1px #ffff00;
+    text-shadow: 1px 1px 1px yellow;
     margin-top: 0;
     margin-bottom: 0;
     line-height: .75;
@@ -30,6 +36,13 @@ body {
     text-decoration: none;
 }
 
+.navbar-toggle {
+    background: -webkit-linear-gradient(aliceblue, yellowgreen);
+    background: -moz-linear-gradient(aliceblue, yellowgreen);
+    background: -o-linear-gradient(aliceblue, yellowgreen);
+    background: linear-gradient(aliceblue, yellowgreen);
+}
+
 #collapsable-nav {
     text-transform: uppercase;
     font-weight: bold;
@@ -37,6 +50,19 @@ body {
     color: #3c3c3c;
     text-shadow: 1px 1px 1px #ffff00;
     text-align: center;
+    background: -webkit-linear-gradient(aliceblue, #9acfea);
+    background: -moz-linear-gradient(aliceblue, #9acfea);
+    background: -o-linear-gradient(aliceblue, #9acfea);
+    background: linear-gradient(aliceblue, #9acfea);
+}
+
+#collapsable-nav a {
+    opacity: .85;
+}
+
+#collapsable-nav a:hover, collapsable-nav a:focus {
+    opacity: 1;
+    color: darkorange;
 }
 
 #main-content {
