@@ -13,6 +13,7 @@
     <list default="true" id="6e70ad18-f5f4-4245-b881-35075cfb1226" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style_mod3.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style_mod3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mod3_solution/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mod3_solution/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +64,7 @@
       <workItem from="1658138564341" duration="3433000" />
       <workItem from="1658203831467" duration="756000" />
       <workItem from="1658428590288" duration="20139000" />
-      <workItem from="1658592055260" duration="1293000" />
+      <workItem from="1658592055260" duration="2902000" />
     </task>
     <servers />
   </component>

@@ -84,3 +84,24 @@ body {
     margin: 1%;
     padding: 1%;
 }
+
+#topback {
+    border: 1px;
+    border-radius: 20px;
+    background: -webkit-linear-gradient(aliceblue, yellowgreen);
+    background: -moz-linear-gradient(aliceblue, yellowgreen);
+    background: -o-linear-gradient(aliceblue, yellowgreen);
+    background: linear-gradient(aliceblue, yellowgreen);
+}
+
+#topback a {
+    color: #985f0d;
+    font-weight: bold;
+    opacity: .85;
+}
+
+#topback a:hover {
+    text-decoration: none;
+    opacity: 1;
+    color: darkorange;
+}
